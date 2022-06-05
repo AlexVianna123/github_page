@@ -1,0 +1,10 @@
+.banner {
+    padding: 3%;
+    background-color: #1815c0;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 3em;
+    font-weight: 300;
+    letter-spacing: 3.7px;
+    position: relative;
+}
